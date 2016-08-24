@@ -2,9 +2,9 @@
   url: "/"
   side: left
 
-- title: Getting Start
-  url: "/getting-started/"
-  side: left
+#- title: Getting Start
+#  url: "/getting-started/"
+#  side: left
 
 - title: "Sản Phẩm"
   url: "/design/"
@@ -14,7 +14,7 @@
     url: "/design/grid/"
   - title: "Phân bón"
     url: "/design/typography/typography/"
-  
+
   #- title: "Page/Post"
   #  url: "/design/page/"
   #- title: "Post-Left-Sidebar"
@@ -29,36 +29,36 @@
     url: "/design/video/"
   - title: "Gallery"
     url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
+#  - title: "Portfolio"
+#    url: "/design/portfolio/"
 
-- title: "Header Styles"
-  url: "/headers/"
-  side: left
-  dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+#- title: "Header Styles"
+#  url: "/headers/"
+#  side: left
+#  dropdown:
+#  - title: "Header with Full-Width-Image"
+#    url: "/design/header-full-width-image/"
+#  - title: "Header with Image and Pattern"
+#    url: "/design/header-image-pattern/"
+#  - title: "Header with image and color"
+#    url: "/design/header-image-color/"
+#  - title: "Header Only With Logo"
+#    url: "/design/header-logo-only/"
+#  - title: "Header With Text"
+#    url: "/design/header-with-text/"
+#  - title: "No Header"
+#    url: "/design/no-header/"
+#  - title: "No Header but Image"
+#    url: "/design/no-header-but-image/"
 
 - title: Kỹ Thuật trồng
   url: "/documentation/"
   side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+#  dropdown:
+#  - title: "Changelog"
+#    url: "/changelog/"
+#  - title: "Roadmap"
+#    url: "/roadmap/"
 
 - title: Blog
   url: "/blog/"
@@ -67,10 +67,10 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Search"
+- title: "Tìm kiếm"
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "Liên hệ"
   url: "/contact/"
   side: right
