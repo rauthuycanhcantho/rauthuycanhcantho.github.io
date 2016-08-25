@@ -7,13 +7,13 @@
 #  side: left
 
 - title: "Sản Phẩm"
-  url: "/design/"
+  url: "/sanpham/"
   side: left
   dropdown:
   - title: "Đất sạch dinh dưỡng better"
-    url: "/design/grid/"
+    url: "/sanpham/datsach/"
   - title: "Phân bón"
-    url: "/design/typography/typography/"
+    url: "/sanpham/phanbon/"
 
   #- title: "Page/Post"
   #  url: "/design/page/"
