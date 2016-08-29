@@ -14,7 +14,8 @@
     url: "/sanpham/datsach/"
   - title: "Phân bón"
     url: "/sanpham/phanbon/"
-
+  - title: "Tinh dầu xã đuổi muỗi"
+    url: "/sanpham/tindauxa/"
   #- title: "Page/Post"
   #  url: "/design/page/"
   #- title: "Post-Left-Sidebar"
