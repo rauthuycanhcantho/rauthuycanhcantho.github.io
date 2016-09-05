@@ -22,8 +22,8 @@ widget2:
 widget3:
   title: "Tinh dầu sả đuổi muỗi"
   url: 'http://rauthuycanhcantho.github.io/sanpham/tinhdauxa/'
-  image: widget-tinhdauxa.jpg
-  text: 'Tinh dầu xã đuổi muỗi có nguồn góc tự nhiên,...'
+  image: widget-tinhdauxa.JPG
+  text: 'Tinh dầu sả đuổi muỗi có nguồn góc tự nhiên,...'
 #
 # Use the call for action to show a button on the frontpage
 #
