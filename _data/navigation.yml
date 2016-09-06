@@ -16,7 +16,8 @@
     url: "/sanpham/phanbon/"
   - title: "Tinh dầu sả đuổi muỗi"
     url: "/sanpham/tinhdausa/"
-  #- title: "Page/Post"
+
+   #- title: "Page/Post"
   #  url: "/design/page/"
   #- title: "Post-Left-Sidebar"
   #  url: "/design/post-left-sidebar/"
@@ -52,9 +53,9 @@
 #  - title: "No Header but Image"
 #    url: "/design/no-header-but-image/"
 
-- title: Kỹ Thuật trồng
-  url: "/documentation/"
-  side: left
+#- title: Kỹ Thuật trồng
+#  url: "/documentation/"
+#  side: left
 #  dropdown:
 #  - title: "Changelog"
 #    url: "/changelog/"

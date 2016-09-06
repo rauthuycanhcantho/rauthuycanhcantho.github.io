@@ -10,6 +10,9 @@ tags:
         - tinh dau sa
 ---
 <!--more-->
+
+### Quý khách có thể sử dụng chức năng "Giỏ hàng" để đặt hàng [/huongdandathang]((xem hướng dẫn đặt hàng)). Sau khi nhận được đơn hàng chúng tôi sẽ liên hệ để xác nhận đơn hàng và tiến hành giao hàng cho quý khách. 
+
 <div class="row t60">
           <ul class="pricing-table">
             <li class="title">Tinh dầu sả đuổi muỗi</li>
@@ -22,8 +25,9 @@ tags:
             <li class="bullet-item"><b>Cách sử dụng:</b> Phun xịt lên da hoặc nơi có muỗi trú ẩn.</li>
             <li class="bullet-item"><b>Cảnh báo:</b> Không phun vào mắt, miệng, da non, vết thương hở và trẻ em dưới 2 tuổi. Không sử dụng cho người mẫn cảm với dầu sả.</li>
             <li class="bullet-item">
-                <div class="ecwid ecwid-SingleProduct ecwid-Product ecwid-Product-70587619" itemscope itemtype="http://schema.org/Product" data-single-product-id="70587619"><div customprop="addtobag"></div></div><script type="text/javascript" src="https://app.ecwid.com/script.js?10069824&data_platform=singleproduct" charset="utf-8"></script><script type="text/javascript">xSingleProduct()</script>
+               <div class="ecwid ecwid-SingleProduct ecwid-Product ecwid-Product-70587619" itemscope itemtype="http://schema.org/Product" data-single-product-id="70587619"><div customprop="addtobag"></div></div><script type="text/javascript" src="https://app.ecwid.com/script.js?10069824&data_platform=singleproduct" charset="utf-8"></script><script type="text/javascript">xSingleProduct()</script>
             </li>
+
         <!--    <li class="cta-button"><a class="button" href="#">Buy Now</a></li> -->
           </ul>
 </div>

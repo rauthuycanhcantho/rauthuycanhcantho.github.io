@@ -21,9 +21,10 @@ widget2:
 #  video: '<a href="#" data-reveal-id="videoModal"><img src="/images/" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Tinh dầu sả đuổi muỗi"
-  url: 'http://rauthuycanhcantho.github.io/sanpham/tinhdauxa/'
-  image: widget-tinhdauxa.JPG
+  url: 'http://rauthuycanhcantho.github.io/sanpham/tinhdausa/'
+  image: widget-tinhdauxa.jpg
   text: 'Tinh dầu sả đuổi muỗi có nguồn góc tự nhiên,...'
+  
 #
 # Use the call for action to show a button on the frontpage
 #
