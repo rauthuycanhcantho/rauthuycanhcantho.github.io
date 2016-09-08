@@ -16,7 +16,7 @@ tags:
 <div class="row t60">
           <ul class="pricing-table">
             <li class="title">Tinh dầu sả đuổi muỗi</li>
-            <li class="bullet-item"><a href=""><img src="{{ site.urlimg }}tinhdausa.jpg" alt=""></a></li>
+            <li class="bullet-item"><a href=""><img src="{{ site.urlimg }}tinhdausa_1.jpg" alt=""></a></li>
             <li class="price">Giá: 30.000đ/chai</li>
             <li class="bullet-item"><b>Quy cách:</b> chai xịt 90ml</li>
             <li class="bullet-item"><b>Mô tả:</b> Dầu sả...12%, Citronella grass oil...12%. </li>
