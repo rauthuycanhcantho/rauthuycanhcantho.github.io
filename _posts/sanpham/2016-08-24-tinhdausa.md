@@ -11,7 +11,7 @@ tags:
 ---
 <!--more-->
 
-### Quý khách có thể sử dụng chức năng "Giỏ hàng" để đặt hàng [/huongdandathang]((xem hướng dẫn đặt hàng)). Sau khi nhận được đơn hàng chúng tôi sẽ liên hệ để xác nhận đơn hàng và tiến hành giao hàng cho quý khách. 
+### Quý khách có thể sử dụng chức năng "Giỏ hàng" để đặt hàng [(xem hướng dẫn đặt hàng)](http://rauthuycanhcantho.com/huongdan/huongdandathang). Sau khi nhận được đơn hàng chúng tôi sẽ liên hệ để xác nhận đơn hàng và tiến hành giao hàng cho quý khách. 
 
 <div class="row t60">
           <ul class="pricing-table">
