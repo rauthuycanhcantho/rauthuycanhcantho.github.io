@@ -22,7 +22,7 @@ widget2:
 widget3:
   title: "Tinh dầu sả đuổi muỗi"
   url: 'http://rauthuycanhcantho.github.io/sanpham/tinhdausa/'
-  image: widget-tinhdauxa.jpg
+  image: widget-tinhdausa.jpg
   text: 'Tinh dầu sả đuổi muỗi có nguồn góc tự nhiên,...'
   
 #
