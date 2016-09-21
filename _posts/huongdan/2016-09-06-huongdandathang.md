@@ -7,6 +7,8 @@ categories:
     - huongdan
 tags:
     - huong dan
+
+image: huongdan_step1.png
 ---
 
 ### Bước 1: chọn hàng --> bấm nút "Thêm vào giỏ hàng"
