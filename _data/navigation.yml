@@ -17,6 +17,13 @@
   - title: "Tinh dầu sả đuổi muỗi"
     url: "/sanpham/tinhdausa/"
 
+- title: "Dịch vụ"
+  url: "/dichvu/"
+  side: left
+  dropdown:
+  - title: "Tư vấn, thiết kế, thi công hệ thống tưới tiết kiệm nước"
+    url: "/dichvu/thi cong he thong tuoi/"
+
    #- title: "Page/Post"
   #  url: "/design/page/"
   #- title: "Post-Left-Sidebar"
