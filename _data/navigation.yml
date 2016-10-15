@@ -10,6 +10,8 @@
   url: "/sanpham/"
   side: left
   dropdown:
+  - title: "Dung dịch thủy canh 301"
+    url: "/sanpham/dungdichthuycanh/"
   - title: "Đất sạch dinh dưỡng better"
     url: "/sanpham/datsach/"
   - title: "Phân bón"
@@ -22,7 +24,7 @@
   side: left
   dropdown:
   - title: "Tư vấn, thiết kế, thi công hệ thống tưới tiết kiệm nước"
-    url: "/dichvu/thi cong he thong tuoi/"
+    url: "/dichvu/thi-cong-he-thong-tuoi/"
 
    #- title: "Page/Post"
   #  url: "/design/page/"
