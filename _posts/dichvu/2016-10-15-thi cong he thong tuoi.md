@@ -18,7 +18,7 @@ author: Tien Cao-hoang
 ---
 ![](http://rvac.vn/Resource/UpLoad/Banner/Anh%20bia%20Thanh%20Long%20213102016020735.jpg)
 
-## Rauthuycanhcantho.com - Đại diện [công ty TNHH Sản xuất và thương mại RVAC](http://rvac.vn) tại Cần thơ hân hạnh cung cấp dịch vụ tư vấn, thiết kế và thi công hệ thống tưới tiết kiệm nước.
+## Rauthuycanhcantho.com - Liên kết với [công ty TNHH Sản xuất và thương mại RVAC](http://rvac.vn) tại Cần thơ hân hạnh cung cấp dịch vụ tư vấn, thiết kế và thi công hệ thống tưới tiết kiệm nước.
 
 ### Bước 1: Quý khách có nhu cầu cần tư vấn thiết kế vui lòng liên hệ nhân viên (Lê Phương Thư - Đt,Zalo: 0946 36 37 32; [Facebook:Kelly Thư](https://www.facebook.com/kelly.thu.9) 
 
