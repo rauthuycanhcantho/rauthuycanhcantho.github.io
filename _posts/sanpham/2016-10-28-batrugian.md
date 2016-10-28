@@ -1,13 +1,13 @@
 ---
 layout: page-fullwidth
-title: "Bã trừ kiến tận ổ"
-subheadline: "Bã trừ kiến tận ổ"
-teaser: "Bã trừ kiến tận ổ"
+title: "Bã trừ gián sinh học"
+subheadline: "Bã trừ gián sinh học"
+teaser: "Bã trừ gián"
 image: ba_tru_gian.jpg
 categories:
     - sanpham
 tags:
-        - bã trừ kiến
+        - bã trừ gián
         - san pham
 ---
 <!--more-->
@@ -21,7 +21,6 @@ tags:
             <li class="bullet-item"><b>Xuất xứ:</b> Công ty TNHH sản xuất và thương mại RVAC</li>
             <li class="bullet-item"><b>Cách sử dụng:</b> tận dụng nắp chai nước suối xài rồi, nhỏ vào đó khoảng 10 giọt và để nơi nào mà gián hay qua lại. Gián sẽ ăn và lăn ra chết. Nhà có nuôi gà cứ lấy con gián chết rồi cho gà ăn. Đảm bảo gà không sao.</li>
            
-
         <!--    <li class="cta-button"><a class="button" href="#">Buy Now</a></li> -->
           </ul>
 </div>

@@ -18,6 +18,10 @@
     url: "/sanpham/phanbon/"
   - title: "Tinh dầu sả đuổi muỗi"
     url: "/sanpham/tinhdausa/"
+  - title: "Bã trừ gián sinh học"
+    url: "/sanpham/batrugian/"
+  - title: "Bã trừ kiến"
+    url: "/sanpham/batrukien/"
 
 - title: "Dịch vụ"
   url: "/dichvu/"
