@@ -3,7 +3,11 @@ layout: page-fullwidth
 title: "Bã trừ gián sinh học"
 subheadline: "Bã trừ gián sinh học"
 teaser: "Bã trừ gián"
-image: ba_tru_gian.jpg
+
+image:
+    title: ba_tru_gian.jpg
+    thumb: ba_tru_gian.jpg
+
 categories:
     - sanpham
 tags:
