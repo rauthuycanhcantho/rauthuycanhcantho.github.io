@@ -25,6 +25,25 @@ widget3:
   image: widget-tinhdausa.jpg
   text: 'Tinh dầu sả đuổi muỗi có nguồn góc tự nhiên,...'
   
+widget4:
+  title: "Dung dịch thủy canh 301"
+  url: 'http://rauthuycanhcantho.github.io/sanpham/dungdichthuycanh/'
+  image: widget-dungdichthuycanh.jpg
+  text: 'Dung dịch thủy canh 301, chai 250ml (pha được 8l dung dịch)...'
+
+widget5:
+  title: "Bã trừ kiến tận ổ"
+  url: 'http://rauthuycanhcantho.github.io/sanpham/batrukien/'
+  image: widget-batrukien.jpg
+  text: 'Bã trừ kiến tận ổ, gói 5g,...'
+
+widget6:
+  title: "Bã trừ gián sinh học"
+  url: 'http://rauthuycanhcantho.github.io/sanpham/batrugian/'
+  image: widget-batrugian.jpg
+  text: 'Bã trừ gián sinh học, chai 10ml,...'
+
+
 #
 # Use the call for action to show a button on the frontpage
 #
