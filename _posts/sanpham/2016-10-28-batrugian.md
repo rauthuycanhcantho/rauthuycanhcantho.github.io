@@ -6,9 +6,9 @@ teaser: "Bã trừ gián"
 
 breadcrumb: true
 image:
+    image: ba_tru_gian.jpg
 
     thumb: ba_tru_gian.jpg
-
 categories:
     - sanpham
 tags:
