@@ -5,8 +5,7 @@ subheadline: "Bã trừ gián sinh học"
 teaser: "Bã trừ gián"
 
 breadcrumb: true
-image:
-    image: ba_tru_gian.jpg
+image:ba_tru_gian.jpg
 
     thumb: ba_tru_gian.jpg
 categories:
