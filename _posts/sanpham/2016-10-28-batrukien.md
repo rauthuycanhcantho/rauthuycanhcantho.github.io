@@ -4,7 +4,7 @@ title: "Bã trừ kiến tận ổ"
 subheadline: "Bã trừ kiến tận ổ"
 teaser: "Bã trừ kiến tận ổ"
 breadcrumb: true
-image:
+image: ba_tru_kien.jpg
    
     thumb: ba_tru_kien.jpg
 
