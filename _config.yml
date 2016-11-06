@@ -192,8 +192,8 @@ og_type:                            'website'
 #
 
 socialmedia:
-    twitter: phlow
-    facebook: phlow.media
+    twitter: chtien18
+    facebook: tien.cao.71
 
 
 #        ____  _
@@ -229,7 +229,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-63702444-1
 
 
 
