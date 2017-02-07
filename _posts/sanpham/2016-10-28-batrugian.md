@@ -4,9 +4,8 @@ title: "Bã trừ gián sinh học"
 subheadline: "Bã trừ gián sinh học"
 teaser: "Bã trừ gián"
 
-image:
-
-    thumb: ba_tru_gian.jpg
+breadcrumb: true
+image: ba_tru_gian.jpg
 
 categories:
     - sanpham
