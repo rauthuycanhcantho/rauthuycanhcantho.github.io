@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
-title: "Tinh dầu sả đuổi muỗi"
-subheadline: "Tinh dầu sả"
+title: "Phân hữu cơ dạng viên nén Fofer 333"
+subheadline: "Phân hữu cơ"
 teaser: "Phân hữu cơ viên nén"
 image: phanhuuco.jpg
 categories:
@@ -17,7 +17,7 @@ tags:
           <ul class="pricing-table">
             <li class="title">Phân hữu cơ dạng viên nén fofer 333</li>
             <li class="bullet-item"><a href=""><img src="{{ site.urlimg }}tinhdausa_1.jpg" alt=""></a></li>
-            <li class="price">Giá: 25.000đ/túi</li>
+            <li class="price">Giá: 30.000đ/túi</li>
             <li class="bullet-item"><b>Quy cách:</b> túi 1 kg</li>
             <li class="bullet-item"><b>Mô tả:</b> là loại phân hữu cơ cao cấp, được tinh chế từ cá, than bùn hoạt chất, bánh dầu. Tiện sử dụng, hiệu quả cao, không độc hại cho người và gia súc. </li>
             <li class="bullet-item"><b>Công dụng:</b>Cải thiện hóa lý của đất, làm đất tơi xốp, màu mỡ, cung cấp đầy đủ dưỡng chất cho hoa kiểng, cây cảnh và cầy trồng khác. Phục hồi sự tươi tốt cho cây cảnh sau mưa dằm, nắng hạn, trỗ hoa, cắt tỉa cành, uốn sửa tàn, thay đất. Kích thích cây ra rễ, phát triển bộ rễ. Tăng tính đề kháng sâu bệnh và khả năng chống chịu yếu tố bất lợi của môi trường. Cân đối, cung cấp dinh dưỡng giúp cây sinh trưởng và phát triển hoàn hảo.</li>
