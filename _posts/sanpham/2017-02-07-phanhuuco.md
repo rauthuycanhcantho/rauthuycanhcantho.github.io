@@ -16,7 +16,7 @@ tags:
 <div class="row t60">
           <ul class="pricing-table">
             <li class="title">Phân hữu cơ dạng viên nén fofer 333</li>
-            <li class="bullet-item"><a href=""><img src="{{ site.urlimg }}tinhdausa_1.jpg" alt=""></a></li>
+            <li class="bullet-item"><a href=""><img src="{{ site.urlimg }}phanhuuco.jpg" alt=""></a></li>
             <li class="price">Giá: 30.000đ/túi</li>
             <li class="bullet-item"><b>Quy cách:</b> túi 1 kg</li>
             <li class="bullet-item"><b>Mô tả:</b> là loại phân hữu cơ cao cấp, được tinh chế từ cá, than bùn hoạt chất, bánh dầu. Tiện sử dụng, hiệu quả cao, không độc hại cho người và gia súc. </li>
