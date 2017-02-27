@@ -24,9 +24,7 @@ tags:
             <li class="bullet-item"><b>Xuất xứ:</b> Công ty TNHH sản xuất và thương mại RVAC</li>
             <li class="bullet-item"><b>Cách sử dụng:</b> bón trực tiếp hoặc tưới.</li>
             
-            <li class="bullet-item">
-               <div class="ecwid ecwid-SingleProduct ecwid-Product ecwid-Product-70587619" itemscope itemtype="http://schema.org/Product" data-single-product-id="70587619"><div customprop="addtobag"></div></div><script type="text/javascript" src="https://app.ecwid.com/script.js?10069824&data_platform=singleproduct" charset="utf-8"></script><script type="text/javascript">xSingleProduct()</script>
-            </li>
+           
 
         <!--    <li class="cta-button"><a class="button" href="#">Buy Now</a></li> -->
           </ul>
