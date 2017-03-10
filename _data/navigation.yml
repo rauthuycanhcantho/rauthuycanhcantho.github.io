@@ -25,13 +25,6 @@
   - title: "Bã trừ kiến"
     url: "/sanpham/batrukien/"
 
-- title: "Dịch vụ"
-  url: "/dichvu/"
-  side: left
-  dropdown:
-  - title: "Tư vấn, thiết kế, thi công hệ thống tưới tiết kiệm nước"
-    url: "/dichvu/thi-cong-he-thong-tuoi/"
-
    #- title: "Page/Post"
   #  url: "/design/page/"
   #- title: "Post-Left-Sidebar"
@@ -80,9 +73,6 @@
 - title: Blog
   url: "/blog/"
   side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
 
 - title: "Tìm kiếm"
   url: "/search/"
