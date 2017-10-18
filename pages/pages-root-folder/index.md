@@ -26,7 +26,7 @@ widget3:
   text: 'Tinh dầu sả đuổi muỗi có nguồn góc tự nhiên,...'
   
 widget4:
-  title: "Dung dịch thủy canh 301"
+  title: "Dung dịch thủy canh 301 (tạm hết)"
   url: 'http://rauthuycanhcantho.github.io/sanpham/dungdichthuycanh/'
   image: widget-dungdichthuycanh.jpg
   text: 'Dung dịch thủy canh 301, chai 250ml (pha được 8l dung dịch)...'
